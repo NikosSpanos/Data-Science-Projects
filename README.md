@@ -11,5 +11,5 @@ Either project is connected to my academic and professional pathaway.
 Hope you will enjoy your stay here and I am glad to hear any feedback you have!
 
 ``` 
-__Projects implemented by a Machine Learning & Data Engineering Enthusiast__
+Projects implemented by a Machine Learning & Data Engineering Enthusiast
 ```
